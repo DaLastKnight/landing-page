@@ -1,0 +1,77 @@
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#S1{
+    background-color:#1F2937;
+}
+
+#Header{
+    display: flex;
+    align-items: center;
+}
+
+#hlogo{
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-right: auto;
+    font-weight: 900;
+}
+
+#awesome{
+    font-size: 48px;
+    font-weight: 900;
+    color:#F9FAF8;
+}
+
+#awsubtext{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+#Random {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+#quote{
+    background-color:#E5E7EB;
+    color: #1F2937;
+}
+
+#quotetext{
+    font-style:italic;
+    font-weight:lighter;
+    font-size: 36px;
+}
+
+#quoteauthor{
+    font-weight:bold;
+}
+
+#Call{
+    background-color: #3882F6
+}
+
+#Product{
+    color: #E5E7EB;
+}
+
+#Action{
+    color: #E5E7EB;
+    font-weight: bold;
+}
+
+.hlink{
+    display: flex;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.Sign {
+    font-size: 18px;
+    color: #E5E7EB;
+    font-weight: bold;
+}
+
