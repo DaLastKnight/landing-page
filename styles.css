@@ -9,6 +9,7 @@
 #Header{
     display: flex;
     align-items: center;
+    padding-left: 24px;
 }
 
 #hlogo{
@@ -44,10 +45,16 @@
     font-style:italic;
     font-weight:lighter;
     font-size: 36px;
+    padding-left: 24px;
+    padding-top: 24px;
 }
 
 #quoteauthor{
     font-weight:bold;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 24px;
+    padding-bottom: 24px;
 }
 
 #Call{
@@ -67,11 +74,16 @@
     display: flex;
     font-size: 18px;
     color: #E5E7EB;
+    padding-right: 24px;
 }
 
 .Sign {
     font-size: 18px;
     color: #E5E7EB;
     font-weight: bold;
+}
+
+.subtext {
+    display: flex;
 }
 
