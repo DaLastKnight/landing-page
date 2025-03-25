@@ -70,6 +70,14 @@
     font-weight: bold;
 }
 
+#shape{
+    height: 24px;
+    width: 24px;
+    background-color: grey;
+    outline-width: 12px;
+    outline-color:#3882F6;
+}
+
 .hlink{
     display: flex;
     font-size: 18px;
@@ -85,5 +93,12 @@
 
 .subtext {
     display: flex;
+    
 }
 
+.shapes {
+    display: flex;
+    padding-left: 24px;
+    padding-right: 24px;
+    justify-content: space-evenly;
+}
